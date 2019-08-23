@@ -1,4 +1,4 @@
-# Algo---Find-Shortest-Substring
+# Find-Shortest-Substring
 
 Given a string and a list contains certain characters,
 find the shortest substring containing all the characters in the list.
